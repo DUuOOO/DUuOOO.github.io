@@ -40,7 +40,7 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/DUuOOO">
-    <img src="https://badges.strrl.dev/visits/DUuOOO/HIM198?style=flat-square&color=black&logo=github">
+    <img src="https://badges.strrl.dev/visits/DUuOOO/DUuOOO?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/DUuOOO">
     <img src="https://badges.strrl.dev/years/DUuOOO?style=flat-square&color=black&logo=github">
@@ -62,8 +62,8 @@
  
 ### 🧠 Web and code
  
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
  
 
  
