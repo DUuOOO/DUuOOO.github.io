@@ -30,9 +30,9 @@ redirect_from:
  
 <p align="center">
   <a href="https://github.com/DUuOOO" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&title_color=333&text_color=777" alt="DUuOOO's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&hide=issues&title_color=333&text_color=777" alt="DUuOOO's Stats" >
     -->
   </a>
 </p>
