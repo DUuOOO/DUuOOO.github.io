@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Yanxin Zheng's personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 <a href="https://github.com/DUuOOO/">
     <img align="right" src="https://komarev.com/ghpvc/?username=DUuOOO&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
