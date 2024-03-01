@@ -21,7 +21,7 @@
 <br>
  
 <p align="center">
-  <a href="https://github.com/HIM198" class="rich-diff-level-one">
+  <a href="https://github.com/DUuOOO" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&title_color=333&text_color=777" alt="HIM198's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
@@ -31,7 +31,7 @@
  
 <p align="center">
 
-  <a href="https://blog.csdn.net/HHHHHHHHII" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://blog.csdn.net/duduoott" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
   &emsp;
