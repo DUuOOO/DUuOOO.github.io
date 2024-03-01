@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Background"
+    url: /Background/  
+    
   - title: "Publications"
     url: /publications/
    
@@ -7,5 +10,4 @@ main:
   - title: "CSDN"
     url: /CSDN/  
     
-  - title: "Background"
-    url: /Background/  
+
