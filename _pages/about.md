@@ -62,8 +62,8 @@
  
 ### 🧠 Web and code
  
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
+<div align="left"; width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
+<div align="right"; width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
  
 
  
