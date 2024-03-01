@@ -2,7 +2,7 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=DUuOOO&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="">Yanxin Zheng</a>
+## Hi, 👋  I'm <a href="https://DUuOOO.github.io">Yanxin Zheng</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
@@ -34,14 +34,10 @@
   <a href="https://blog.csdn.net/duduoott" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
-  &emsp;
     
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/DUuOOO">
-    <img src="https://badges.strrl.dev/visits/DUuOOO/DUuOOO?style=flat-square&color=black&logo=github">
-  </a>
   <a href="https://github.com/DUuOOO">
     <img src="https://badges.strrl.dev/years/DUuOOO?style=flat-square&color=black&logo=github">
   </a>
@@ -59,18 +55,13 @@
 <h2></h2>
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you haven't done!"> &nbsp;&nbsp;&nbsp;&nbsp;
- 
-### 🧠 Web and code
- 
-<div align="left"; width="50%"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
-<div align="right"; width="50%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
- 
 
  
-</td></tr>
- 
-<tr><td>
- 
-</td></tr>
- 
-<tr><td>
+### 🧠 Web and code
+
+
+| <a href="https://github.com/DUuOOO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DUuOOO's github stats" /></a> | <a href="https://github.com/DUuOOO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<br />
+<br />
