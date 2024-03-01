@@ -16,7 +16,7 @@ redirect_from:
 
 <!--my introduction start-->
 - ❤️ I like eating 🥥, raising 🐕‍🦺, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/DUuOOO/DUuOOO/issues).
+- 💬 Be free to ask me about anything [1637810435@qq.com].
  
 ---
 </details>
