@@ -63,7 +63,7 @@
 ### 🧠 Web and code
  
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUuOOO&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO" /> </div>
  
 
  
