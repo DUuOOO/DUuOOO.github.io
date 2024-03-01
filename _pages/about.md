@@ -27,7 +27,6 @@ redirect_from:
 <!--my introduction end -->
  
 <br>
- 
 
  
 <p align="center">
@@ -58,7 +57,12 @@ redirect_from:
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you haven't done!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
+ 
+### 🧠 Web and code
 
+
+| <a href=""https://github.com/DUuOOO/github-readme-stats""><img align="center" src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="DUuOOO's github stats" /></a> | <a href="https://github.com/DUuOOO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <br />
 <br />
