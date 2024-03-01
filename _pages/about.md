@@ -1,20 +1,14 @@
 <a href="https://github.com/DUuOOO/">
-    <img align="right" src="https://komarev.com/ghpvc/?username=HIM198&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=DUuOOO&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
 </a>
  
-## Hi, 👋  I'm <a href="http://welcome.voup.cn">Yanxin Zheng</a>
+## Hi, 👋  I'm <a href="">Yanxin Zheng</a>
  
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
- [//]: # 上面的href可以在以后搭建了自己的网站后补充
+
 <!--my introduction start-->
-    
-- 🔭 empty
-- 🌱 empty
-- 🤔 Only two things make me moved. 
-  1. empty
-  2. empty
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
-- 💬 Be free to ask me about anything [here](https://github.com/HIM198/HIM198/issues).
+- ❤️ I like eating 🥥, raising 🐕‍🦺, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
+- 💬 Be free to ask me about anything [here](https://github.com/DUuOOO/DUuOOO/issues).
  
 ---
 </details>
@@ -28,9 +22,9 @@
  
 <p align="center">
   <a href="https://github.com/HIM198" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&title_color=333&text_color=777" alt="HIM198's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=HIM198&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&hide=issues&title_color=333&text_color=777" alt="HIM198's Stats" >
     -->
   </a>
 </p>
@@ -60,30 +54,35 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/DUuOOO">
     <img src="https://badges.strrl.dev/visits/HIM198/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/DUuOOO">
     <img src="https://badges.strrl.dev/years/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198?tab=repositories">
+  <a href="https://github.com/DUuOOO?tab=repositories">
     <img src="https://badges.strrl.dev/repos/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/HIM198">
+  <a href="https://gist.github.com/DUuOOO">
     <img src="https://badges.strrl.dev/gists/HIM198?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/HIM198">
+  <a href="https://github.com/DUuOOO">
     <img src="https://badges.strrl.dev/commits/monthly/HIM198?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
 <h2></h2>
  
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you haven't done!"> &nbsp;&nbsp;&nbsp;&nbsp;
  
 ### 🧠 Web and code
  
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DUuOOO&show_icons=true&theme=tokyonight" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=DUuOOO&theme=xcode" /> </div>
+
+
+
  
 
  
