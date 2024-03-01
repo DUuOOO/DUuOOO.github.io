@@ -210,6 +210,12 @@ collections:
   CSDN:
     output: true
     permalink: /:collection/:path/
+  Project Experiences:
+    output: true
+    permalink: /:collection/:path/
+  Honor:
+    output: true
+    permalink: /:collection/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
