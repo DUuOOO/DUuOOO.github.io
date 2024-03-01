@@ -23,12 +23,8 @@ redirect_from:
   ✨ 目前为暨南大学大三在读生，喜欢编程，脱口秀和DIY。该站存放本人学习生涯中的部分代码程序，记录项目过程中遇到困难的解决方案。欢迎大家来和我讨论技术上的问题。
  
 <!--my introduction end -->
- 
-<br>
 
 <p align="center">
-    
-  <br>
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/DUuOOO">
