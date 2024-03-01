@@ -53,11 +53,6 @@ redirect_from:
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
 </a>
  
-### 🧠 Web and code
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DUuOOO&layout=compact&theme=buefy&hide_border=true" alt="DUuOOO's github stats" /></a> <a href="https://github.com/DUuOOO/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUuOOO&layout=compact&theme=buefy&hide_border=true" />
-
 
 <br />
 <br />
