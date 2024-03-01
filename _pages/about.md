@@ -12,12 +12,13 @@ redirect_from:
  
 ## Hi, 👋  I'm <a href="https://DUuOOO.github.io">Yanxin Zheng</a>
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> (Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a img="/images/wechatScancode.jpg" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
 - ❤️ I like eating 🥥, raising 🐕‍🦺, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
 - 💬 Be free to ask me about anything [1637810435@qq.com].
- 
+
+ </details>
   
   ✨ 目前为暨南大学大三在读生，喜欢编程，脱口秀和DIY。该站存放本人学习生涯中的部分代码程序，记录项目过程中遇到困难的解决方案。欢迎大家来和我讨论技术上的问题。
  
