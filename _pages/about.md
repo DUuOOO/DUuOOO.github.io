@@ -12,7 +12,7 @@ redirect_from:
  
 ## Hi, 👋  I'm <a href="https://DUuOOO.github.io">Yanxin Zheng</a>
  
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a img="https://github.com/DUuOOO/DUuOOO.github.io/tree/master/images/wechatScancode.jpg" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3NtY188QaxDdC/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a src="https://github.com/DUuOOO/DUuOOO.github.io/tree/master/images/wechatScancode.jpg" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
 
 <!--my introduction start-->
 - ❤️ I like eating 🥥, raising 🐕‍🦺, playing 🏓, sleeping in 🛌 and 📺 [ACGN]
@@ -29,10 +29,6 @@ redirect_from:
 
  
 <p align="center">
-
-  <a href="https://blog.csdn.net/duduoott" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
-  </a>
     
   <br><br>
   <strong>Check out my work below!</strong>
@@ -55,7 +51,9 @@ redirect_from:
  
 <img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you haven't done!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
-
+<a href="https://blog.csdn.net/duduoott" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+</a>
  
 ### 🧠 Web and code
 
