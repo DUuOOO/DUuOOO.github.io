@@ -47,9 +47,7 @@ redirect_from:
   </a>
 </p>
  
-<h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you haven't done!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<h2>Do what you haven't done!</h2>
 
 <a href="https://blog.csdn.net/duduoott" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
