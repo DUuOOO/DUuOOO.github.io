@@ -15,4 +15,4 @@ redirect_from:
 
 办公/写作：熟练掌握Microsoft Word, Excel, PowerPoint，熟练掌握LateX编辑。
 
-外语：英语（CET-4，CET-6）。
+外语：英语（CET-4/542，CET-6/490）。
