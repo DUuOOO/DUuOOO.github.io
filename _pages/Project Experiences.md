@@ -11,10 +11,10 @@ redirect_from:
 
 **参与板块：** 数据清洗、数据管理及数据库搭建、数据可视化。
 
-**涉及技术：** python，SQL，NLP，elasticsearch，Linux操作系统。
+**涉及技术：** Python，SQL，NLP，elasticsearch，Linux操作系统。
 
 **工作内容：**
-  * 内网python工作环境、gpu工作环境搭建。
+  * 内网Python工作环境搭建。
   * 命名实体抽取。使用nltk/StanfordCoreNLP + 正则表达式，抽取命名实体。
   * elasticsearch数据库增删查改。根据导师已有知识，将采集数据分字段储存，匹配补充相应字段，形成json格式数据，将结构化数据入库。根据老师要求，撰写对数据库错误数据进行查改，更新字段。
   * kibana数据可视化。前期采用dashboard,制作图表，进行统计。后期采用canvas面板,SQL语句查询串联多个索引，可视化呈现更全面。
