@@ -6,3 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+## 科研助理
+
+
+## 算法优化
