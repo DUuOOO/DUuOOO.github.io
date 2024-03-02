@@ -11,7 +11,7 @@ redirect_from:
 
 
 # 技能
-计算机：熟练掌握C/C++, Java, python等编程语言，SCSA-T证书。
+计算机：熟练掌握C/C++, Java, python等编程语言，深信服SCSA-T证书。
 
 办公/写作：熟练掌握Microsoft Word, Excel, PowerPoint，熟练掌握LateX编辑。
 
