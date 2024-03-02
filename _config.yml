@@ -42,6 +42,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/DUuOOO"
+  CSDN             : "https://blog.csdn.net/duduoott"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -205,9 +206,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  CSDN:
     output: true
     permalink: /:collection/:path/
   Project Experiences:
