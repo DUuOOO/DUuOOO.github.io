@@ -5,4 +5,4 @@ permalink: /CSDN/
 author_profile: true
 ---
 
-**CLick** [here.](https://blog.csdn.net/duduoott)
+**Click** [here.](https://blog.csdn.net/duduoott)
